@@ -1,5 +1,5 @@
-./files
-./no_nise
-./noisy
-./.idea
-./__pycache__
+/files
+/no_nise
+/noisy
+/.idea
+/__pycache__
